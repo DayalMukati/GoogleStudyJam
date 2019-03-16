@@ -1,0 +1,19 @@
+{
+  "name": "googlestudyjam",
+  "version": "1.0.0",
+  "description": "Study Jam on 16th March 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayalMukati/GoogleStudyJam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayalMukati/GoogleStudyJam/issues"
+  },
+  "homepage": "https://github.com/DayalMukati/GoogleStudyJam#readme"
+}
